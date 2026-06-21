@@ -1,8 +1,7 @@
 # Store-Sales-performance-Analytics-Excel-Dashboard
 ---
 📊 Project Overview
-This project has a dynamic Dashboard that show the Sales distribution acorss Customers  and ther segmentation , Region , Store_Location , Product and their Category 
-in order to get the full overview From where and how much Sales they are Responsible for 
+- This project has a dynamic Dashboard that show the Sales distribution acorss Customers  and ther segmentation , Region , Store_Location , Product and their Category in order to get the full overview From where and how much Sales they are Responsible for 
 ***
 
 🎯 Objectives
